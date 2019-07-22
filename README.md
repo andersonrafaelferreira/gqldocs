@@ -1,25 +1,21 @@
-# gqldocs
-
-### set up installing the Graphdoc
-
-### `npm install -g @2fd/graphdoc`
-
-### or using yarn
-
-### `yan add -g @2fd/graphdoc`
 
 
-### open your terminal and execute the follow command to generate the Public GraphQL Documentation 
-```
-yarn run publicDoc
-```
+# GraphQL documentation
+
+## Available Scripts
+
+In the project directory, you can run this follow command to generate public documentation:
+
+### `npm run publicDoc`
 
 
-### open your terminal and execute the follow command to generate the Private GraphQL Documentation 
-```
-yarn run privateDoc
-```
+Or this above to generate a private documentation:
 
+### `npm run publicDoc`
 
-### GraphDcoc
-See more at [Generator Reference](https://github.com/2fd/graphdoc).
+Graphdoc was used to generate these docoments.<br>
+More information about the [Generator Reference](https://github.com/2fd/graphdoc).
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
