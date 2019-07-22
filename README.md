@@ -7,26 +7,18 @@
 
 #### Available Scripts
 
-In the project directory, you can run this follow command to generate public documentation:
+In the project directory, you can run this follow command to generate the documents:
 
- `npm run publicDoc`
-
-
-Or this command bellow to generate a private documentation:
-
-`npm run publicDoc`
-
+ `npm run gdoc`
 
 #### Access the documentation
 
 After have executed this commands above, you can use the follow links to access the documents.<br>
-
+> https://api.eshows.com.br/g
 Public documentation [click here](./publicDoc).
-<br>
+> https://api.eshows.com.br/p
 Private documentation [click here](./privateDoc).
 
-
-(***)
 
 [Graphdoc](https://github.com/2fd/graphdoc) was used to generate these documents.<br>
 
