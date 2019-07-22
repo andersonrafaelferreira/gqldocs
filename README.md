@@ -1,17 +1,17 @@
 
 
-# GraphQL documentation
+## EShows endpoints - GraphQL documentation
 
 ## Available Scripts
 
 In the project directory, you can run this follow command to generate public documentation:
 
-### `npm run publicDoc`
+ `npm run publicDoc`
 
 
 Or this above to generate a private documentation:
 
-### `npm run publicDoc`
+`npm run publicDoc`
 
 Graphdoc was used to generate these docoments.<br>
 More information about the [Generator Reference](https://github.com/2fd/graphdoc).
