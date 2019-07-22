@@ -30,6 +30,6 @@ Private documentation [click here](./privateDoc).
 
 (***)
 
-[Graphdoc](https://github.com/2fd/graphdoc) was used to generate these docoments.<br>
+[Graphdoc](https://github.com/2fd/graphdoc) was used to generate these documents.<br>
 
 
