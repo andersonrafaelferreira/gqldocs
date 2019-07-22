@@ -1,10 +1,4 @@
-
-
 ## EShows endpoints - GraphQL documentation
-
-
-[![Build Status](https://github.com/andersonrafaelferreira/gqldocs?branch=master)](http://eshows.com.br)
-
 
 ### Install
 
